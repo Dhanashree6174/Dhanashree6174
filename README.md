@@ -37,6 +37,7 @@ Here are a few things I’ve worked on:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dhanashree6174&show_icons=true&theme=radical" width="45%"/>
+  <span>   </span>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanashree6174&theme=radical" width="45%"/>
 </p>
 
