@@ -26,8 +26,6 @@
 
 Here are a few things I’ve worked on:
 
-- 💬 **QCast** – AI-powered podcast generation platform (Next.js, PostgreSQL, Supabase) 
-
 - 🌐 Full-stack applications using MySQL or MongoDB, Node.js, and React 
 - 📚 Internship projects  
 
