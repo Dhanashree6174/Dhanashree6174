@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer and lifelong learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer;Open%20Source%20Contributor;Tech%20Enthusiast;Always%20Learning%20New%20Things&center=true&width=500&height=30">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer;Tech%20Enthusiast;Always%20Learning%20New%20Things&center=true&width=500&height=30">
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ### 👩‍💻 About Me
 
 - 🎓 I’m a Computer Science student passionate about building impactful software.
-- 💡 Currently exploring **Full Stack Development**, **AI/ML**, and **Open Source**.
+- 💡 Currently exploring **Full Stack Development** and **AI/ML**.
 - 🛠️ Technologies I work with:
   - **Languages**: C++, Python, JavaScript 
   - **Frontend**: React.js, Tailwind CSS, HTML, CSS
