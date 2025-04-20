@@ -14,8 +14,8 @@
 - 🛠️ Technologies I work with:
   - **Languages**: C++, Python, JavaScript 
   - **Frontend**: React.js, Tailwind CSS, HTML, CSS
-  - **Backend**: Node.js, Express.js, MySQL, PostgreSQL
-  - **Others**: Git, MongoDB, Supabase
+  - **Backend**: Node.js, Express.js, MySQL, PostgreSQL, MongoDB
+  - **Others**: Git, Supabasem, NeonDB, Prisma, Drizzle
 
 - 🌱 Currently learning: **Next.js**, **TypeScript**, and **AI-powered applications**.
 - 📫 Reach me at: [dhanashreegosavi183@gmail.com](mailto:dhanashreegosavi183@gmail.com)
@@ -26,7 +26,7 @@
 
 Here are a few things I’ve worked on:
 
-- 🌐 Full-stack applications using MySQL or MongoDB, Node.js, and React 
+- 🌐 Full-stack applications 
 - 📚 Internship projects  
 
 ---
