@@ -18,7 +18,7 @@
   - **Others**: Git, MongoDB, Supabase
 
 - 🌱 Currently learning: **Next.js**, **TypeScript**, and **AI-powered applications**.
-- 📫 Reach me at: [dhanashree6174@gmail.com](mailto:dhanashree6174@gmail.com)
+- 📫 Reach me at: [dhanashreegosavi183@gmail.com](mailto:dhanashreegosavi183@gmail.com)
 
 ---
 
@@ -53,8 +53,8 @@ Here are a few things I’ve worked on:
 ### 🌐 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/dhanashree6174/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:dhanashree6174@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dhanashree-gosavi-1a171225b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:dhanashreegosavi183@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
